@@ -1,0 +1,40 @@
+~~~~~~~~~~~~~~~~~~~Feature list for Library Management System~~~~~~~~~~~~~~~~~~~
+
+1.  Catalog management: keeping track of what is available in the collection 
+    or with the person/student, Book Add/Remove functionality..
+2.  Circulation management: tracking who has what and when items are due.
+3.  Search functions: allows librarians to complete a catalog search on various 
+    levels
+4.  Dashboard for searched item.
+5.  Student/Person record Management and various details about him. 
+
+~~~~~~~~~~~~~~~~~~~~Requirement List (1) Catalogue Management~~~~~~~~~~~~~~~~~~~
+1.  Books should be viewed in catagory tabs
+2.  Books should have availability count, lost count, rented count, total count. 
+3.  Books can be sorted as per the count, name.
+4.  Books in one category tab can be grouped as per the status (available, 
+    not available)
+5.  Add Book 
+6.  Remove Book
+
+~~~~~~~~~~~~~~~~~~~Requirement List (2) Circulation Management~~~~~~~~~~~~~~~~~~
+1.  It should contains bookname and a list of peoples having it.
+2.  Books can be sorted with due date.
+3.  It should contain fine along with student/person name and due date.
+
+~~~~~~~~~~~~~~~~~~~~~~Requirement List (3) Search Function~~~~~~~~~~~~~~~~~~~~~~
+1.  A serach bar on top of every page. when we search for a book name, It should
+    navigate us to book dashboard or give error on a popup window without 
+    navigating us from our current page.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~Requirement List (4) Dashboard~~~~~~~~~~~~~~~~~~~~~~~~~
+1.  It Contains details of the book (author name, pages, rent fee amount, 
+    count in stock, count rented, rating)
+
+~~~~~~~~~~~~~~~~~~~~~~Requirement List (5) Student Record~~~~~~~~~~~~~~~~~~~~~~~
+1.  Add Student 
+2.  Remove Student
+3.  Search Student
+4.  All Details of Searched Student (Books Taken, Due date, due amount, name, 
+    Address, age, Category)
+5.  List of Students. Can be sorted as per the name, Book name, due date.
