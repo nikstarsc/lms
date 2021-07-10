@@ -1,6 +1,6 @@
 ~~~~~~~~~~~~~~~~~~~Feature list for Library Management System~~~~~~~~~~~~~~~~~~~
 
-1.  Catalog management: keeping track of what is available in the collection 
+1.  Inventory Management: keeping track of what is available in the collection 
     or with the person/student, Book Add/Remove functionality..
 2.  Circulation management: tracking who has what and when items are due.
 3.  Search functions: allows librarians to complete a catalog search on various 
@@ -8,7 +8,7 @@
 4.  Dashboard for searched item.
 5.  Student/Person record Management and various details about him. 
 
-~~~~~~~~~~~~~~~~~~~~Requirement List (1) Catalogue Management~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~Requirement List (1) Inventory Management~~~~~~~~~~~~~~~~~~~
 1.  Books should be viewed in catagory tabs
 2.  Books should have availability count, lost count, rented count, total count. 
 3.  Books can be sorted as per the count, name.
